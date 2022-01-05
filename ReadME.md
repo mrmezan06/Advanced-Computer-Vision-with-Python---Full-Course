@@ -12,5 +12,5 @@
         - Color conversion
 
 
-`Time stamp: 21:34`
+- `Time stamp: 21:34`
 [Video Credit: FreeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU_NvOY&t=3105s)    
