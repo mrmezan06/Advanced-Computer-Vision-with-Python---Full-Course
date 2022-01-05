@@ -12,5 +12,5 @@
         - Color conversion
 
 
-- [Video Credit: FreeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU_NvOY&t=3105s)
+- [Video Credit: FreeCodeCamp.org](https://www.youtube.com/watch?v=01sAkU_NvOY&t=1294s)
     - `Time stamp: 21:34`    
